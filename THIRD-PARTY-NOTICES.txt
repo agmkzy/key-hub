@@ -1,0 +1,5 @@
+VexFlow 4.2.5
+Copyright Mohit Muthanna and contributors.
+Licensed under the MIT License.
+Project: https://github.com/0xfe/vexflow
+License: https://github.com/0xfe/vexflow/blob/4.2.5/LICENSE
