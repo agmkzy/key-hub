@@ -1,10 +1,17 @@
-KEY HUB 3.1 — INDEPENDENT HANDS
+KEY HUB 3.2 — ANY CHORD
 
 INSTALL ON YOUR EXISTING GITHUB PAGES SITE
 Unzip this download. Upload all extracted files to the repository root, replacing
 index.html. Commit to main and wait for Pages deployment to finish.
 Upload the files, not the ZIP or its containing folder.
-The workspace badge reads 3.1. Asset filenames are versioned to avoid stale files.
+The workspace badge reads 3.2. Asset filenames are versioned to avoid stale files.
+
+ANY CHORD
+Use + Any chord beside A little outside colour. Choose a root, its spelling,
+and one of 16 qualities through ninths, then Add chord. Chords use the existing
+hand system, saving and Playing view. Connect now includes diminished-seventh
+approaches. The selected key and global scale stay unchanged when adding chords.
+Changing key transposes the entire progression, including explicit-root chords.
 
 LEFT HAND / RIGHT HAND
 Each hand has an independent role, note assignment or shape, and movement.
