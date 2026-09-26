@@ -1,38 +1,34 @@
-KEY HUB 3.0 — ARRANGEMENT UPGRADE
+KEY HUB 3.1 — INDEPENDENT HANDS
 
-Upload all files from this folder to the root of your existing GitHub repository.
-Replace index.html and commit to main. Wait for the Pages deployment to finish.
-Upload the extracted files, not the ZIP or its containing folder.
-The page badge reads 3.0. Versioned asset names avoid reusing older browser files.
+INSTALL ON YOUR EXISTING GITHUB PAGES SITE
+Unzip this download. Upload all extracted files to the repository root, replacing
+index.html. Commit to main and wait for Pages deployment to finish.
+Upload the files, not the ZIP or its containing folder.
+The workspace badge reads 3.1. Asset filenames are versioned to avoid stale files.
 
-The familiar Play / Learn / Saved workspace is preserved.
-Choose Arrangement, then open Fine-tune arrangement for foundation, accompaniment,
-RH movement and register. Each card has Customise for optional overrides.
-Reset to progression defaults restores inheritance; colours stay per chord.
+LEFT HAND / RIGHT HAND
+Each hand has an independent role, note assignment or shape, and movement.
+LH: Bass, Harmony, Melody, None.
+RH: Harmony, Melody, Harmony + Melody, None.
+Alberti belongs to Harmony; Stride remains available as an LH Harmony movement.
+The melody roles show Land / Colour / Move. No melody is composed for you.
+Follow RH Shape is an explicit linked-bass option; otherwise the bass remains
+independent of the RH inversion shape.
 
-Chordal: LH foundation + RH harmonic shape (the previous default).
-Melody + Chords: LH harmony + your own RH melody.
-Melody + Broken Harmony: moving LH accompaniment + your own RH melody.
-Stride: LH bass/chord alternation + your own RH melody.
-Melodic Chords: LH foundation + RH harmony carrying a chosen top voice.
-Choose a per-chord top voice under Customise. Neighbour movement demonstrates
-moving the top note while holding lower RH notes. Inner notes may be omitted
-when an explicit shape and top note cannot fit; omissions are named on the card.
+Defaults apply to the progression. Customise overrides only selected fields on
+a chord. Reset to progression defaults removes those overrides. The padlock,
+manual RH shapes, smoothing, smooth loop, harmonic Connect and saved setups remain.
+Existing setups migrate to the new hand model when opened.
 
-RH shape names describe the right hand, not the overall chord inversion.
-Follow RH Shape deliberately links the bass to the lowest RH shape note.
-Brackets mean notes together; arrows mean successive attacks; x4 means four pulses.
-Alberti is low/high/middle/high over the chosen LH material. Melody arrangements
-supply chord-tone Alberti; additional harmony tones are shown as held notes.
-Land / Colour / Connect is a harmonic map, not a generated melody.
+PLAYING VIEW
+Key and correctly spelled scale, scale degrees, progression and Roman numerals
+stay above the cards. Cards show chord tones and exact hand instructions.
+Dots mean simultaneous notes; arrows mean sequential notes. Held notes accompany
+the written sequence. There are no keyboards or configuration controls in this view.
+Five to eight chords use four columns x two rows in landscape, or two x four in
+portrait. Tested at iPad-sized 1024x768 and 768x1024 viewports, plus 1024x700.
+Larger progressions remain available by scrolling. Compact spacing is applied only
+when needed to fit eight cards. Small phones use a scrolling layout.
 
-Playing view automatically compacts 5–8 cards. Tested at 1024x768 landscape and
-768x1024 portrait; additional fitting accounts for available viewport height.
-More than eight chords remain available by scrolling. Keyboard diagrams can be
-switched off in the workspace; compact portrait prioritises written notes.
-
-F-sharp/G-flat and C-sharp/D-flat major spellings, plus other standard enharmonic
-keys, keep their own note names, scale spellings, chord names and notation.
-
-Saved setups stay in this browser on this device. This does not add cloud sync,
-audio, MIDI or melody composition. Existing saved setups default to Chordal.
+Saved setups remain local to this browser/device. This update does not deploy
+itself to GitHub or add audio, MIDI, accounts or cloud synchronisation.
